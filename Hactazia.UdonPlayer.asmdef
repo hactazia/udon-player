@@ -1,0 +1,17 @@
+{
+    "name": "Hactazia.UdonPlayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:99835874ee819da44948776e0df4ff1d",
+        "GUID:f7d6467c23363be4db6282f2bdd16bd6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
