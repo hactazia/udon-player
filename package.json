@@ -1,6 +1,6 @@
 {
   "name": "fr.hactazia.udon-player",
-  "displayName": "Udon Player",
+  "displayName": "Hactazia - Player",
   "version": "0.0.1",
   "description": "Many UdonSharp extensions to manage players.",
   "url": "https://github.com/hactazia/udon-player",
