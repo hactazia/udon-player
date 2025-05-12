@@ -1,6 +1,4 @@
-﻿using Hactazia.UdonList;
-using UdonSharp;
-using UnityEngine;
+﻿using UdonSharp;
 using VRC.SDKBase;
 
 namespace Hactazia.UdonPlayer

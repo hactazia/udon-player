@@ -1,7 +1,7 @@
 {
   "name": "fr.hactazia.udon-player",
   "displayName": "Hactazia - Player",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Many UdonSharp extensions to manage players.",
   "url": "https://github.com/hactazia/udon-player",
   "bugs": {
@@ -19,7 +19,8 @@
   },
   "vpmDependencies": {
     "com.vrchat.worlds": "^3.8.x",
-    "fr.hactazia.udon-list": "^0.0.1"
+    "fr.hactazia.udon-types": "^0.0.1"
   },
+  "samples": [],
   "unity": "2022.3"
 }

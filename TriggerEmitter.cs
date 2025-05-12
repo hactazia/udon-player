@@ -1,4 +1,4 @@
-﻿using Hactazia.UdonList;
+﻿using Hactazia.Types;
 using UdonSharp;
 using VRC.SDKBase;
 
